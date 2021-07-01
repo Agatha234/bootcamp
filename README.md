@@ -12,7 +12,7 @@ Go to [github.com](https://github.com/) and create an account. After you have ve
 
 Write a command that prints out the string “hello, world”. Extra credit: As in Listing 1, do it two different ways, both with and without using quotation marks.
 
-print (' "hello, world"')
+print (' "hello, world".')
 print ('hello, world')
 ## 2: Cleaning up
 
@@ -30,6 +30,8 @@ Make the directory **bootcamp** on your Desktop and, within it, the directory **
 
 cd Desktop
 mkdir bootcamp
+cd bootcamp
+mkdir labs
 ## 5: Navigating directories
 
 Change to your Desktop, then change to bootcamp directory, and then the lab directory.
