@@ -17,7 +17,7 @@ print ('hello, world')
 ## 2: Cleaning up
 
 Clear the contents of the current tab.
-ctrl+L
+clear
 
 ## 3: Listing
 
@@ -35,13 +35,13 @@ mkdir labs
 ## 5: Navigating directories
 
 Change to your Desktop, then change to bootcamp directory, and then the lab directory.
-
+cd Desktop/bootcamp/lab
 
 ## 6: Creating files
 
 Create an empty file called file01 in the lab directory. 
 
-cat >file01.ext
+cat >file01
 ## 7: Deleting directories
 
 What is the command used to remove a directory named **food** and everything inside it. 
